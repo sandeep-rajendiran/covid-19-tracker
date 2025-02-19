@@ -58,7 +58,7 @@ npm run build
 Deploy it on platforms like **Netlify**, **Vercel**, or **GitHub Pages**.
 
 ## Demo
-View the project demo here: [Live Demo](https://covid-19-tracker-94cfe.web.app/)
+View the project demo here: [Live Demo](https://covid-19-tracker-mobile-35633.web.app/)
 
 ## Learn More
 - [React Documentation](https://reactjs.org/)
