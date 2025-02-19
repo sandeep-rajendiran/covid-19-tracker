@@ -56,7 +56,8 @@ Build the app using:
 npm run build
 ```
 Deploy it on platforms like **Netlify**, **Vercel**, or **GitHub Pages**.
-
+## Screenshot
+![Covid19 Tracker App Screenshot](Demo.png)
 ## Demo
 View the project demo here: [Live Demo](https://covid-19-tracker-mobile-35633.web.app/)
 
